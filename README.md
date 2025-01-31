@@ -1,8 +1,9 @@
-# Demo
+# Who i'm i?
 - 👋 Hi, I’m @DutchSapper.
 - 👀 I’m doing a higher professional education in computer science.
   
 - 🌱 I’m currently learning HTML, CSS and JavaScript.
+- 💻 Currently working on my portfolio, and a idea for a website for my work.
 - 📫 How to reach me ...
 - ⚡ Fun fact: ...
 
